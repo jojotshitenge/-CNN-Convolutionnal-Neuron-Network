@@ -1,0 +1,3 @@
+# CNN-Convolutionnal-Neuron-Network-
+Convotionnal neuron network is part of Deep Learning most efficient algorithms when it comes to tacle a classification problem and the most important thing about Deep Learning is that it transfoms our linear problems into non linear so that it can learns more about the correlations between our inputs layers and based on that gives us more powerful accurancy as prediction result!
+To see the power of CNN we've decided to tacle a classification problem based on images (Cat and Dog ) as labelled data to predict the output of this two possibles and the result was unbelievable because we've got aun incredible result.
